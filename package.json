@@ -1,0 +1,33 @@
+{
+    "name": "hyper-systray",
+    "productName": "HyperSysTray",
+    "version": "1.0.0",
+    "description": "Hyper.app for minimalists — Supports Windows tray",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Thomas Meschke",
+    "homepage": "https://github.com/telekommander/hyper-systray",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/telekommander/hyper-systray.git"
+    },
+    "bugs": {
+        "url": "https://github.com/telekommander/hyper-systray/issues"
+    },
+    "keywords": [
+        "desktop",
+        "windows",
+        "electron",
+        "electron-app",
+        "tray",
+        "systray",
+        "hyper",
+        "hyper plugin",
+        "hyper extension",
+        "hyper tray",
+        "hyper systray"
+    ],
+    "license": "MIT"
+}
