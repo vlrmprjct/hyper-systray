@@ -7,7 +7,7 @@
 </p>
 
 <p>
-    <img src="https://raw.githubusercontent.com/telekommander/hyper-systray/master/assets/preview.jpg" width="666" alt="Hyper Windows Systray"/>
+    <img src="https://raw.githubusercontent.com/telekommander/hyper-systray/master/assets/preview.gif" width="666" alt="Hyper Windows Systray"/>
 </p>
 
 ---
