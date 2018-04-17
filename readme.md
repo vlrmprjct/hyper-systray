@@ -1,5 +1,7 @@
 [Hyper](https://hyper.is) systray plugin for Windows Users — Open Hyper from system tray or a global shortcut.
 
+*Works on Hyper v2.x*
+
 [MacOS Users should use this plugin instead:](https://github.com/tarutin/hyper-tray/) https://github.com/tarutin/hyper-tray/
 
 <p>
